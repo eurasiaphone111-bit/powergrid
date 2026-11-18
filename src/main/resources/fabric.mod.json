@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "powergrid",
+  "version": "${version}",
+  "name": "PowerGrid (Энергосеть)",
+  "description": "Энергосистема в Minecraft: генераторы, кабели с ограниченной пропускной способностью, аккумуляторы, потребители и блэкауты при перегрузке.",
+  "authors": [],
+  "license": "MIT",
+  "icon": "assets/powergrid/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["net.powergrid.PowerGrid"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

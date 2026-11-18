@@ -1,0 +1,16 @@
+{
+  "itemGroup.powergrid": "Энергосеть",
+  "block.powergrid.copper_cable": "Медный кабель (64 EU/t)",
+  "block.powergrid.power_cable": "Силовой кабель (512 EU/t)",
+  "block.powergrid.coal_generator": "Угольный генератор",
+  "block.powergrid.solar_panel": "Солнечная панель",
+  "block.powergrid.battery": "Аккумулятор",
+  "block.powergrid.electric_lamp": "Электролампа",
+  "item.powergrid.multimeter": "Мультиметр",
+  "message.powergrid.fuel": "Топлива на %s с",
+  "message.powergrid.meter.header": "=== Энергосеть ===",
+  "message.powergrid.meter.power": "Генерация: %s EU/t | Нагрузка: %s EU/t",
+  "message.powergrid.meter.balance": "Баланс: %s EU/t",
+  "message.powergrid.meter.storage": "Аккумуляторы: %s / %s EU (шт.: %s)",
+  "message.powergrid.meter.cables": "Кабелей: %s | Слабейший: %s EU/t"
+}

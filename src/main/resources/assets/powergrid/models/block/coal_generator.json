@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "powergrid:block/generator_side",
+    "up": "powergrid:block/generator_top",
+    "down": "powergrid:block/generator_top",
+    "north": "powergrid:block/generator_front",
+    "south": "powergrid:block/generator_front",
+    "east": "powergrid:block/generator_side",
+    "west": "powergrid:block/generator_side"
+  }
+}

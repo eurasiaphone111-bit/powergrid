@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "powergrid:block/coal_generator"
+    },
+    "lit=true": {
+      "model": "powergrid:block/coal_generator_on"
+    }
+  }
+}

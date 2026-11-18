@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "side": "powergrid:block/battery_side",
+    "top": "powergrid:block/battery_top",
+    "bottom": "powergrid:block/battery_top"
+  }
+}

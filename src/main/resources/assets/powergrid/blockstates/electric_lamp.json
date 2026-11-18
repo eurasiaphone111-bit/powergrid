@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "powergrid:block/electric_lamp"
+    },
+    "lit=true": {
+      "model": "powergrid:block/electric_lamp_on"
+    }
+  }
+}

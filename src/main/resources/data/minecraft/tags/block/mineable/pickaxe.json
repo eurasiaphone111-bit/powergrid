@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "powergrid:coal_generator",
+    "powergrid:solar_panel",
+    "powergrid:battery"
+  ]
+}

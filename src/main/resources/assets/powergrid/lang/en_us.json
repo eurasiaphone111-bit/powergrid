@@ -1,0 +1,16 @@
+{
+  "itemGroup.powergrid": "PowerGrid",
+  "block.powergrid.copper_cable": "Copper Cable (64 EU/t)",
+  "block.powergrid.power_cable": "Power Cable (512 EU/t)",
+  "block.powergrid.coal_generator": "Coal Generator",
+  "block.powergrid.solar_panel": "Solar Panel",
+  "block.powergrid.battery": "Battery",
+  "block.powergrid.electric_lamp": "Electric Lamp",
+  "item.powergrid.multimeter": "Multimeter",
+  "message.powergrid.fuel": "Fuel left: %s s",
+  "message.powergrid.meter.header": "=== Power Grid ===",
+  "message.powergrid.meter.power": "Generation: %s EU/t | Load: %s EU/t",
+  "message.powergrid.meter.balance": "Balance: %s EU/t",
+  "message.powergrid.meter.storage": "Batteries: %s / %s EU (count: %s)",
+  "message.powergrid.meter.cables": "Cables: %s | Weakest: %s EU/t"
+}
